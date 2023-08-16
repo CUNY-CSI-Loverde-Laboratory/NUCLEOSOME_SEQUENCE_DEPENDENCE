@@ -111,6 +111,8 @@ open(punit,file=pdbfile,status='old',form='formatted',iostat=ios)
 
 read(punit,111)AtomName(1),ResName(1),ResNo,xref(1),yref(1),zref(1)
 
+close(punit)
+
 open(punit,file=pdbfile,status='old',form='formatted',iostat=ios)
 
 Npair = 0
