@@ -1,0 +1,17 @@
+../PAPER_RESULT/NEW_LOOP_ANALYSIS/1KX5_AMBER_bp_16-23_LoopSize_4.0_time.out
+../PAPER_RESULT/NEW_LOOP_ANALYSIS/1KX5_AMBER_bp_16-23_LoopSize_4.0_prob.out 
+34224     
+1 9346
+294
+0
+240.0
+1
+16 23
+4.0
+input-activity.pdb
+5
+1kx5-1.dcd 
+1kx5-2.dcd
+1kx5-3.dcd
+1kx5-4.dcd
+1kx5-5.dcd

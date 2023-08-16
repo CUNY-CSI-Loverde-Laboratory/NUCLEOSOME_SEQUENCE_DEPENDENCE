@@ -1,0 +1,13 @@
+../RESULT_CHARMM_AMBER/3LZ0_ref_pav_tail1_proj.dat
+../RESULT_CHARMM_AMBER/3LZ0_ref_pav_tail2_proj.dat
+34412
+1
+1 9198
+new-3lz0-ref.pdb
+1
+ref.dcd
+3lz0-5.dcd 
+3lz0-2.dcd
+3lz0-3.dcd
+3lz0-4.dcd
+3lz0-5.dcd
